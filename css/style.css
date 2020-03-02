@@ -1,0 +1,22 @@
+div {
+    background-color: red;
+    text-align: center;
+    width: 600px;
+    margin: 0 calc(50% - 300px);
+    margin-top: 100px;
+    padding: 20px;
+    border: #fff9 solid 3px;
+}
+
+h1{
+    color: #fff9;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+p {
+    color: #fff6;
+    font-size: 20px;
+    font-weight: lighter;
+    text-transform: capitalize;
+}
